@@ -15,7 +15,7 @@ import { PromptableApi } from "promptable";
 
 // AI ASSISTANT BOT:
 const DEFAULT_AGENT_NAME = "Assistant";
-const DEFAULT_PROMPT_ID = "clbilb0kh0008h7eg8jv8owdu";
+const DEFAULT_PROMPT_ID = "cldcsny3b05oqi7ehpsxazpfa";
 
 const tokenizer = new GPT3Tokenizer({ type: "gpt3" });
 
